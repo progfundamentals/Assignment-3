@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h>
+#include <ctype.h> /*frekin hell chnage entire code, dont use this whole thing*/
 #include <math.h>
 	int e, d, n; /*move global variables*/
 
