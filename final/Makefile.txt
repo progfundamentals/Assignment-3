@@ -1,0 +1,5 @@
+
+
+	mygrades2: mygrades.c group.h huff.h
+	
+	gcc -o mygrades2 mygrades2.c group.h huff.h
